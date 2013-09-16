@@ -1,0 +1,1 @@
+<?php/** * Remove erroneous @uses tags * Spacing * Declare globals in docblocks */

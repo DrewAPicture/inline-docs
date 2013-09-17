@@ -1,0 +1,1 @@
+<?php/** * Missing some @returns * Remove erroneous @uses * globals declarations * Args arrays * Punctuation and wrapping fixes * * + WP_Object_Cache class is also in this file */

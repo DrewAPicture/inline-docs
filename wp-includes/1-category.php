@@ -1,0 +1,1 @@
+<?php/** * Move @link refs up to long description area * Remove erroneous @see, @uses * Maybe tighten up some of these long descriptions * Add defaults/accepts * Various missing periods */

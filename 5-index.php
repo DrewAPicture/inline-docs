@@ -1,0 +1,1 @@
+<?php/** * Divide file header into short and long descriptions * Short description on WP_USE_THEMES */

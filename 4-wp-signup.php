@@ -1,0 +1,1 @@
+<?php/** * Couple of missing @param descriptions * Missing periods on short descriptions * Defaults * Spacing, punctuation, wrapping */

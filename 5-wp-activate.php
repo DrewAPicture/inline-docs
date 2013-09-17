@@ -1,0 +1,1 @@
+<?php/** * Divide file header into short and long descriptions * Period on do_activate_header() short desc. * Document WP_INSTALLING w/ @var */

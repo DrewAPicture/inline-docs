@@ -1,0 +1,1 @@
+<?php/** * Fix docblock for includes, add where there are none * @subpackage XML-RPC methinks * Missing short desc on XMLRPC_REQUEST * @deprecated formatting */

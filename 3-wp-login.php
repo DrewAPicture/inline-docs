@@ -1,0 +1,1 @@
+<?php/** * General docblock cleanup, defaults, all of the above * Format 3-line docblock in login_header() * Missing periods and punctuation, wrapping * Maybe add some inline-commenting too */

@@ -1,0 +1,1 @@
+<?php/** * Split file header into short and long descriptions * Proper docblock for _get_cron_lock needed * Perhaps some inline commenting about what's happening */

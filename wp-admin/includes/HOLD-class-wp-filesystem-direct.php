@@ -1,0 +1,1 @@
+<?php/** * On hold pending Base class-only docs decision * * See #18476 */

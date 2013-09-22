@@ -1,1 +1,0 @@
-<?php/** * trackback_response formatting, periods. Maybe just make it clearer. */
